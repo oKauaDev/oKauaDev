@@ -1,19 +1,14 @@
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
  
 
-<h3> :woman:  Sobre mim </h3>
+<h3> SOBRE MIM </h3>
 
  
 
-- 🤔   Explorando novas tecnologias e desenvolvendo soluções de software.
+- Olá meu nome é ladino, sou desenvolvedor e estou buscando cada dia aprender mais, atualmente domino o software pocketmine e estou me aprofundando em PHP, HTML, CSS e JS, estou levando a programação como meu trabalho, tenho apenas 15 anos mas acho bom começar des de novo para aprender cada vez mais.
 
-- 🎓   Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
 
-- 💼   Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-
-- 🌱   Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
 
  
 
@@ -21,13 +16,13 @@
 
  
 
-**Aplicações e Dados**
+**LINGUAGENS**
 
  
 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
