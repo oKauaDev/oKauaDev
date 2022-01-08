@@ -41,7 +41,7 @@
 
 **Principais linguagens**
 
-  ![linguagens](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LadinoXx&theme=blue-green)
 
 **WebSite**
 
