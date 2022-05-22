@@ -19,21 +19,15 @@
 </details> 
  
 <br/>
- 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LadinoXx&hide=html&layout=compact&theme=default)](https://github.com/LadinoXx/)
 
 <h4 align="center">
 <details>
 <summary>Ver Mais...</summary>
- 
-<p align="center">
-  <a href="https://github.com/LadinoXx">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=LadinoXx&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    />
-  </a>
+ <h1>MAIS UM POUCO DE MIM </h1>
+ <br>
+ • Realizei alguns projetos de servidores como Hyperion, Orus Minigames e atualmente a WayMC, também estou entregado na equipe da rede space.
+ <br>
+ <br>
   <a href="https://github.com/LadinoXx">
     <img
       align="center"
