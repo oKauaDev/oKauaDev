@@ -25,9 +25,7 @@
 <summary>Ver Mais...</summary>
  <h1>MAIS UM POUCO DE MIM </h1>
  <br>
- • Realizei alguns projetos de servidores como Hyperion, Orus Minigames e atualmente a WayMC, também estou entregado na equipe da rede space.
- <br><br>
- • Também faço parte da equipe da bedhosting (hospedagem brasileira).
+ • Realizei alguns projetos de servidores como Hyperion, Orus Minigames e atualmente a WayMC.
  <br>
  <br>
   <a href="https://github.com/LadinoXx">
