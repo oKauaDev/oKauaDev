@@ -25,7 +25,7 @@
 <summary>Ver Mais...</summary>
  <h1>MAIS UM POUCO DE MIM </h1>
  <br>
- • Realizei alguns projetos de servidores como Hyperion, Orus Minigames e atualmente a WayMC.
+ • Realizei alguns projetos de servidores como Hyperion, Orus Minigames e WayMC.
  <br>
  <br>
   <a href="https://github.com/LadinoXx">
