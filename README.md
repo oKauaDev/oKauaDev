@@ -15,7 +15,7 @@
 <details>
   <summary>Contatos</summary>
    </br> <img align="left" alt="Discord" target="blank" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"
-   <string>LADINO#0001</string>
+   <string>LADINO#0063</string>
 </details> 
  
 <br/>
