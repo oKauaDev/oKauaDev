@@ -1,15 +1,24 @@
 ### LADINO
  
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></img> | Meu nome é kauã e esse é meu perfil no github, tenho 16 anos e sou dev de pocketmine e php a 2 anos.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></img> | Meu nome é kauã e esse é meu perfil no github, tenho 16 anos e sou dev de pocketmine e php a 2 anos, veja mais sobre mim abaixo:
  
-### 📋 Linguagens:
+### 📋 Estudando e aprendendo:
    ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
    
  ### 📱 Devices:
    ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
-
    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-   
+
+### 💻 Editor:
+   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 📖 Cursando:
+   - [Udemy](www.udemy.com) - Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos
 
 <br/>
 <details>
@@ -25,7 +34,7 @@
 <summary>Ver Mais...</summary>
  <h1>MAIS UM POUCO DE MIM </h1>
  <br>
- • Realizei alguns projetos de servidores como Hyperion, Orus Minigames e WayMC.
+ • Realizei alguns projetos de servidores de minecraft bedrock edition (PHP) como Hyperion, Orus Minigames e WayMc.
  <br>
  <br>
   <a href="https://github.com/LadinoXx">
