@@ -31,7 +31,7 @@
 <details>
   <summary>Contatos</summary>
    </br> <img align="left" alt="Discord" target="blank" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"
-   <a href="https://discordapp.com/users/668849866805477398">LADINO#0063</a>
+   <string><a href="https://discordapp.com/users/668849866805477398">LADINO#0063</a></string>
 
    <hr>
 </details> 
