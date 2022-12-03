@@ -1,69 +1,22 @@
-<h2 align="center">LADINO - MEU PERFIL</h2>
+### 💙 Hello, my name is LADINO
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></img> | Meu nome é kauã e esse é meu perfil no github, tenho 16 anos e sou dev de pocketmine e php a 2 anos, veja mais sobre mim abaixo:
- 
-### 📋 Estudando e aprendendo:
-   ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-   
-<hr>
+> I'm a front-end developer, I'm still learning, but I already know a lot about web development, I'm studying Web Design, Html, CSS and now I'm studying Js.
 
- ### 📱 Devices:
-   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
-   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### Program in
+  ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<hr>
+### My development tools
+  ![Figma](https://camo.githubusercontent.com/2f6623108744cbf8cb040279f861bf45e3c6b8245e81a2d805810e1ba5dcb80b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4669676d612d3333333333333f7374796c653d666c6174266c6f676f3d6669676d61266c6f676f436f6c6f723d303037414343)
+  ![Visual Studio Code](https://camo.githubusercontent.com/194ae9b0be9bfd4caedab16de320d3987f4c144112461590a206262d21eb769b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3333333333333f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343)
+  ![Postman](https://camo.githubusercontent.com/ba26db9a2e4c9aebc9713b73f570e0579367bd1bea4196adbb2c229339fdd3bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f73746d616e2d3333333333333f7374796c653d666c6174266c6f676f3d706f73746d616e)
+  ![Git](https://camo.githubusercontent.com/3ea1c940cc08da19f16d17ca0c4704397dac1f12a1bb73f1174ae504c3e80a85/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333333333f7374796c653d666c6174266c6f676f3d676974)
 
-### 💻 Editor:
-   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### My status
+  [![LadinoXx](https://github-readme-stats.vercel.app/api/top-langs/?username=LadinoXx&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr>
+### Contact
 
-### 📖 Cursando:
-   - [Udemy](https://www.udemy.com) - Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos
-
-<hr>
-
-<details>
-  <summary>Contatos</summary>
-   </br> <img align="left" alt="Discord" target="blank" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"
-   <string><a href="https://discordapp.com/users/668849866805477398">LADINO#0063</a></string>
-
-   <hr>
-</details> 
- 
-<br>
-
-<h4 align="center">
-<details>
-<summary>Ver Mais...</summary>
- <h1>MAIS UM POUCO DE MIM </h1>
- <br>
- • Realizei alguns projetos de servidores de minecraft bedrock edition (PHP) como Hyperion, Orus Minigames e WayMc.
- <br>
- <br>
-  <a href="https://github.com/LadinoXx">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadinoXx&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
-    />
-  </a>
-</p>
- 
- 
-<p align="center">
-  <a href="https://github.com/LadinoXx">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=LadinoXx&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
-    />
-  </a>
-</a>
-</p>
-</p>
-</details>
+You can find me on <a href="https://discordapp.com/users/668849866805477398">discord (LADINO#0063)</a>, I'm open to orders for both sites and plugins for pocketmine-mp.
