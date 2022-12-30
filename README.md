@@ -1,4 +1,4 @@
-### 💙 Hello, my name is KAUÃ
+### 💙 Hello, my name is Kauã
 
 > I'm a front-end developer, I'm still learning, but I already know a lot about web development, I'm studying Web Design, Html, CSS and now I'm studying Js.
 
