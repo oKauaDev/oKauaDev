@@ -15,8 +15,8 @@
   ![Git](https://camo.githubusercontent.com/3ea1c940cc08da19f16d17ca0c4704397dac1f12a1bb73f1174ae504c3e80a85/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333333333f7374796c653d666c6174266c6f676f3d676974)
 
 ### My status
-  [![LadinoXx](https://github-readme-stats.vercel.app/api/top-langs/?username=LadinoXx&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+  [![oKauaDev](https://github-readme-stats.vercel.app/api/top-langs/?username=oKauaDev&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact
 
-You can find me on <a href="https://discordapp.com/users/668849866805477398">discord (LADINO#0063)</a>, I'm open to orders for both sites and plugins for pocketmine-mp.
+You can find me on <a href="https://discordapp.com/users/668849866805477398">discord (K.#0063)</a>, I'm open to orders for both sites.
