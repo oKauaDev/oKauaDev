@@ -19,4 +19,4 @@
 
 ### Contact
 
-You can find me on <a href="https://discordapp.com/users/668849866805477398">discord (K.#0063)</a>, I'm open to orders for both sites.
+You can find me on <a href="https://discordapp.com/users/668849866805477398">discord (K.#5998)</a>, I'm open to orders for both sites.
