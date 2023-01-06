@@ -1,6 +1,6 @@
 ### 💙 Hello, my name is Kauã
 
-> I'm a front-end developer, I'm still learning, but I already know a lot about web development, I'm studying Web Design, Html, CSS and now I'm studying Js.
+> I'm a front-end developer, I'm still learning, but I already know a lot about web development, I'm graduated in Web Design, Html, CSS and JavaScript.
 
 ### Program in
   ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=white)
@@ -15,7 +15,7 @@
   ![Git](https://camo.githubusercontent.com/3ea1c940cc08da19f16d17ca0c4704397dac1f12a1bb73f1174ae504c3e80a85/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333333333f7374796c653d666c6174266c6f676f3d676974)
 
 ### My status
-  [![oKauaDev](https://github-readme-stats.vercel.app/api/top-langs/?username=oKauaDev&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+  [![oKauaDev](https://github-readme-stats.vercel.app/api/top-langs/?username=oKauaDev&hide=html&layout=compact&theme=default)]()
 
 ### Contact
 
