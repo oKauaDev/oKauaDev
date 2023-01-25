@@ -2,7 +2,7 @@
 
 <br/>
 
-- See this in [Portuguese](./README.md)
+- Veja isso em [Português](./README.md)
 
 <br/>
 
