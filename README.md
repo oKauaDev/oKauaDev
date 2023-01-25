@@ -1,22 +1,80 @@
-### 💙 Hello, my name is Kauã
+# 👋 Olá, bem vindo ao meu github
 
-> I'm a front-end developer, I'm still learning, but I already know a lot about web development, I'm graduated in Web Design, Html, CSS and JavaScript.
+<br/>
 
-### Program in
-  ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- See this in [English](./README-ENGLISH.md)
 
-### My development tools
-  ![Figma](https://camo.githubusercontent.com/2f6623108744cbf8cb040279f861bf45e3c6b8245e81a2d805810e1ba5dcb80b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4669676d612d3333333333333f7374796c653d666c6174266c6f676f3d6669676d61266c6f676f436f6c6f723d303037414343)
-  ![Visual Studio Code](https://camo.githubusercontent.com/194ae9b0be9bfd4caedab16de320d3987f4c144112461590a206262d21eb769b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3333333333333f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343)
-  ![Postman](https://camo.githubusercontent.com/ba26db9a2e4c9aebc9713b73f570e0579367bd1bea4196adbb2c229339fdd3bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f73746d616e2d3333333333333f7374796c653d666c6174266c6f676f3d706f73746d616e)
-  ![Git](https://camo.githubusercontent.com/3ea1c940cc08da19f16d17ca0c4704397dac1f12a1bb73f1174ae504c3e80a85/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333333333f7374796c653d666c6174266c6f676f3d676974)
+<br/>
 
-### My status
-  [![oKauaDev](https://github-readme-stats.vercel.app/api/top-langs/?username=oKauaDev&hide=html&layout=compact&theme=default)]()
+> Olá, sou desenvolvedor especializado em front-end, mas também possuo habilidades em back-end. Gosto de criar sites responsivos e com alta interatividade.
 
-### Contact
+<br/>
 
-You can find me on <a href="https://discordapp.com/users/668849866805477398">discord (K.#5998)</a>, I'm open to orders for both sites.
+## Mais sobre mim
+
+<img src="./programming.webp" width="300px"/>
+<br/>
+<br/>
+
+```js
+const kaua = {
+  name: "Kauã Braz Daurte",
+  acknowledgements: "Front-End",
+  languages: ["JavaScript", "PHP"],
+  markuplanguages: ["HTML", "CSS"],
+};
+```
+
+## 🚀 | Minhas Skills
+
+<br/>
+
+### Aplicações e Dados
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br/>
+
+### Utilidades
+
+![Postman](https://img.shields.io/badge/Postman-333333?style=for-the-badge&logo=postman)
+![Github](https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=github)
+
+<br/>
+
+### Ferramentas de Desenvolvimento
+
+![Postman](https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=007ACC)
+
+<br/>
+
+## GitHub Estatísticas
+
+<a href="https://github.com/oKauaDev/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okauadev&theme=dracula&hide_langs_below=1"/>
+</a>
+
+<a href="https://github.com/oKauaDev/">
+  <img src="https://github-readme-stats.vercel.app/api?username=okauadev&show_icons=true&theme=dracula&line_height=27" alt="okauadev github stats"/>
+</a>
+  
+<br/>
+
+## Redes sociais
+
+[WEBSITE](https://kauadev.xyz): https://kauadev.xyz
+
+[TWITTER](https://twitter.com/oKauaDev): https://twitter.com/oKauaDev
+
+[YOUTUBE](https://www.youtube.com/channel/UCgzUg6jb24by7NEIeQYZE2w): https://www.youtube.com/channel/UCgzUg6jb24by7NEIeQYZE2w
+
+[LINKEDIN](https://www.linkedin.com/in/kauã-braz-303536256/): https://www.linkedin.com/in/kauã-braz-303536256/
+
+[DISCORD](https://discordapp.com/users/668849866805477398): K.#5998
