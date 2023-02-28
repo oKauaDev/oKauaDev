@@ -2,11 +2,11 @@
 
 <br/>
 
-- Veja isso em [Português](./README.md)
+- See this in [Portuguese](./README.md)
 
 <br/>
 
-> Hello, I'm a front-end developer, but I also have back-end skills. I like to create responsive websites with high interactivity.
+> Hello, I'm a front-end developer, but I also have skills in back-end. I like to create responsive and highly interactive websites.
 
 <br/>
 
@@ -32,6 +32,7 @@ const kaua = {
 ### Applications and Data
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -69,12 +70,12 @@ const kaua = {
 
 ## Social networks
 
-[WEBSITE](https://kauadev.xyz): https://kauadev.xyz
+[WEBSITE](https://kauadev.xyz)
 
-[TWITTER](https://twitter.com/oKauaDev): https://twitter.com/oKauaDev
+[TWITTER](https://twitter.com/oKauaDev)
 
-[YOUTUBE](https://www.youtube.com/channel/UCgzUg6jb24by7NEIeQYZE2w): https://www.youtube.com/channel/UCgzUg6jb24by7NEIeQYZE2w
+[YOUTUBE](https://www.youtube.com/channel/UCgzUg6jb24by7NEIeQYZE2w)
 
-[LINKEDIN](https://www.linkedin.com/in/kauã-braz-303536256/): https://www.linkedin.com/in/kauã-braz-303536256/
+[LINKEDIN](https://www.linkedin.com/in/kauã-braz-303536256/)
 
-[DISCORD](https://discordapp.com/users/668849866805477398): K.#5998
+[DISCORD](https://discordapp.com/users/668849866805477398)
