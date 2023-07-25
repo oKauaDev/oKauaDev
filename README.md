@@ -27,7 +27,7 @@ Confira meus projetos mais recentes:
 <img align="left" height="94px" width="94px" alt="Metriun" src="https://metriun.com/favicon.ico"/>
 
 **Desenvolvedor full-stack** \
-[**Metriun**](https://www.spacex.com/) • Período integral \
+[**Metriun**](https://metriun.com) • Período integral \
 Linguagens e tecnologias: `React`, `Laravel`, `TypeScript`, `JavaScript`, `PHP` \
 Projetos em destaque: Site, Painel, API
 <br/>
@@ -36,6 +36,6 @@ Projetos em destaque: Site, Painel, API
 <img align="left" height="94px" width="94px" alt="Dogs" src="https://dogs.kauadev.xyz/dogs.svg"/>
 
 **Desenvolvedor front-end** \
-[**Dogs**](https://rocketseat.com.br/) • Período integral \
+[**Dogs**](https://dogs.kauadev.xyz) • Período integral \
 Linguagens e tecnologias: `React`, `JavaScript` \
 Projetos em destaque: Site, Painel
