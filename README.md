@@ -2,7 +2,7 @@
 
 > Sou desenvolvedor front-end e designer. Tenho 17 anos e estou tentando crescer nesse mercado gigante. Tenho enfrentado muitos desafios e aprendido muito com eles!
 
-🔭 Estou desenvolvendo meu primeiro projeto em NextJS, chamado CapsNews. Ele é bastante inspirado no TabsNews, mas é apenas um projeto para aprendizado. Estou utilizando NextJS, TailwindCSS, TypeScript e como back-end Laravel.
+🔭 Estou participando de um projeto open-source chamado Teno, onde estou trabalhando na equipe front-end, é um projeto de aprendizado para todos da equipe.
 
 💬 Você pode entrar em contato comigo pelo [Discord](https://discordapp.com/users/668849866805477398), onde atendo rapidamente, ou pode me enviar um [e-mail](mailto:kauacomtil021@gmail.com).
 
