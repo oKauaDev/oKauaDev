@@ -2,7 +2,7 @@
 
 > Sou desenvolvedor front-end e designer. Tenho 17 anos e estou tentando crescer nesse mercado gigante. Tenho enfrentado muitos desafios e aprendido muito com eles!
 
-🔭 Estou participando de um projeto open-source chamado Teno, onde estou trabalhando na equipe front-end, é um projeto de aprendizado para todos da equipe.
+🔭 Atualmente estou trabalhando como freelancer na Workana e trabalho como desenvolvedor full-stack no Peter IA.
 
 💬 Você pode entrar em contato comigo pelo [Discord](https://discordapp.com/users/668849866805477398), onde atendo rapidamente, ou pode me enviar um [e-mail](mailto:kauacomtil021@gmail.com).
 
@@ -25,7 +25,7 @@
 ## 📂 Experiência de trabalho
 Confira meus projetos mais recentes:
 
-<img align="left" height="94px" width="94px" alt="Metriun" src="https://www.peteria.site/favicon.ico"/>
+<img align="left" height="94px" width="94px" alt="Peter IA" src="https://www.peteria.site/favicon.ico"/>
 
 **Desenvolvedor full-stack** \
 [**Peter IA**](https://peteria.site) • Período integral \
