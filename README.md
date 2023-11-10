@@ -25,12 +25,12 @@
 ## 📂 Experiência de trabalho
 Confira meus projetos mais recentes:
 
-<img align="left" height="94px" width="94px" alt="Metriun" src="https://metriun.com/favicon.ico"/>
+<img align="left" height="94px" width="94px" alt="Metriun" src="https://www.peteria.site/favicon.ico"/>
 
 **Desenvolvedor full-stack** \
-[**Metriun**](https://metriun.com) • Período integral \
-Linguagens e tecnologias: `React`, `Laravel`, `TypeScript`, `JavaScript`, `PHP` \
-Projetos em destaque: Site, Painel, API
+[**Peter IA**](https://peteria.site) • Período integral \
+Linguagens e tecnologias: `NextJS`, `NextAuth`, `TypeScript`, `TailwindCSS`, `UI/UX` \
+Projetos em destaque: Site, Dashboard, API
 <br/>
 <br/>
 
