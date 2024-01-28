@@ -49,9 +49,9 @@ Projetos em destaque: Site, Dashboard, API
 <br/>
 <br/>
 
-<img align="left" height="94px" width="94px" alt="Dogs" src="https://dogs.kauadev.xyz/dogs.svg"/>
+<img align="left" height="94px" width="94px" alt="Dogs" src="https://metriun.com/favicon.ico"/>
 
-**Desenvolvedor front-end** \
-[**Dogs**](https://dogs.kauadev.xyz) • Período integral \
-Linguagens e tecnologias: `React`, `JavaScript` \
-Projetos em destaque: Site, Painel
+**Desenvolvedor full-stack** \
+[**Metriun**](https://metriun.com) • Período integral \
+Linguagens e tecnologias: `NextJS`, `TypeScript`, `Supabase`, `TailwindCSS`, `UI/UX` \
+Projetos em destaque: Site, Dashboard, API, Payments, IA
