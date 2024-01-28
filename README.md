@@ -10,17 +10,32 @@
 
 ## :rocket: Tecnologias e Ferramentas
 
-<span><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></span>
-<span><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></span>
-<span><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></span>
-<span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"></span>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
+
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
+
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ ⭐  (5/5) <br />
+
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=ffffff" /> ⭐ ⭐ ⭐ (3/5) <br />
+
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
+
+<img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=ffffff" /> ⭐ ⭐ (2/5) <br />
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ (4/5) <br />
+
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
+
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
+
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
+
+<img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ (4/5) <br />
+
+<img src="https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=node.js&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
+
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ffffff" /> ⭐ ⭐ ⭐ (3/5) <br />
+
 
 ## 📂 Experiência de trabalho
 Confira meus projetos mais recentes:
