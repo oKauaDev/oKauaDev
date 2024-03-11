@@ -34,7 +34,7 @@
 
 <img src="https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=node.js&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ ⭐ (5/5) <br />
 
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ffffff" /> ⭐ ⭐ ⭐ (3/5) <br />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ (4/5) <br />
 
 
 ## 📂 Experiência de trabalho
