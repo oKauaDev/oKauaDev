@@ -40,6 +40,15 @@
 ## 📂 Experiência de trabalho
 Confira meus projetos mais recentes:
 
+<img align="left" height="94px" width="94px" alt="SapiencIA" src="https://sapienciaedu.com.br/favicon.ico"/>
+
+**Desenvolvedor full-stack** \
+[**SapiencIA**](https://sapienciaedu.com.br) • Período integral \
+Linguagens e tecnologias: `NextJS`, `TypeScript`, `TailwindCSS`, `UI/UX` \
+Projetos em destaque: Site, Dashboard, API, Pagamento, IA
+<br/>
+<br/>
+
 <img align="left" height="94px" width="94px" alt="Peter IA" src="https://www.peteria.site/favicon.ico"/>
 
 **Desenvolvedor full-stack** \
@@ -54,4 +63,4 @@ Projetos em destaque: Site, Dashboard, API
 **Desenvolvedor full-stack** \
 [**Metriun**](https://metriun.com) • Período integral \
 Linguagens e tecnologias: `NextJS`, `TypeScript`, `Supabase`, `TailwindCSS`, `UI/UX` \
-Projetos em destaque: Site, Dashboard, API, Payments, IA
+Projetos em destaque: Site, Dashboard, API, Pagamento, IA
