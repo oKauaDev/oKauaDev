@@ -58,9 +58,9 @@ Projetos em destaque: Site, Dashboard, API
 <br/>
 <br/>
 
-<img align="left" height="94px" width="94px" alt="Dogs" src="https://metriun.com/favicon.ico"/>
+<img align="left" height="94px" width="94px" alt="Halvo" src="https://halvo.com.br/favicon.ico"/>
 
 **Desenvolvedor full-stack** \
-[**Metriun**](https://metriun.com) • Período integral \
-Linguagens e tecnologias: `NextJS`, `TypeScript`, `Supabase`, `TailwindCSS`, `UI/UX` \
-Projetos em destaque: Site, Dashboard, API, Pagamento, IA
+[**Halvo**](https://halvo.com.br) • Período integral \
+Linguagens e tecnologias: `NextJS`, `TypeScript`, `Supabase`, `TailwindCSS`, `UI/UX`, `NextAuth` \
+Projetos em destaque: Site, Dashboard, API, Pagamento, Recebimentos
