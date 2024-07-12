@@ -49,10 +49,10 @@ Projetos em destaque: Site, Dashboard, API, Pagamento, IA
 <br/>
 <br/>
 
-<img align="left" height="94px" width="94px" alt="Peter IA" src="https://www.peteria.site/favicon.ico"/>
+<img align="left" height="94px" width="94px" alt="Peter IA" src="https://www.peteria.com.br/favicon.ico"/>
 
 **Desenvolvedor full-stack** \
-[**Peter IA**](https://peteria.site) • Período integral \
+[**Peter IA**](https://peteria.com.br) • Período integral \
 Linguagens e tecnologias: `NextJS`, `NextAuth`, `TypeScript`, `TailwindCSS`, `UI/UX` \
 Projetos em destaque: Site, Dashboard, API
 <br/>
