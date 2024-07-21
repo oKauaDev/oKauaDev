@@ -64,3 +64,12 @@ Projetos em destaque: Site, Dashboard, API
 [**Halvo**](https://halvo.com.br) • Período integral \
 Linguagens e tecnologias: `NextJS`, `TypeScript`, `Supabase`, `TailwindCSS`, `UI/UX`, `NextAuth` \
 Projetos em destaque: Site, Dashboard, API, Pagamento, Recebimentos
+<br/>
+<br/>
+
+<img align="left" height="94px" width="94px" alt="KAZ" src="https://kaua.dev.br/favicon.svg"/>
+
+**Desenvolvedor full-stack** \
+[**Kauã**](https://kaua.dev.br) • Período integral \
+Linguagens e tecnologias: `Astro`, `TypeScript`, `TailwindCSS`, `UI/UX` \
+Projetos em destaque: Site, Design
