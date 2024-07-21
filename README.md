@@ -36,6 +36,7 @@
 
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ (4/5) <br />
 
+<img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=ffffff" /> ⭐ ⭐ ⭐ ⭐ (4/5) <br />
 
 ## 📂 Experiência de trabalho
 Confira meus projetos mais recentes:
