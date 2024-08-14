@@ -1,6 +1,6 @@
 ## 💙 Olá, meu nome é **Kauã!**
 
-> Sou desenvolvedor front-end e designer. Tenho 17 anos e estou tentando crescer nesse mercado gigante. Tenho enfrentado muitos desafios e aprendido muito com eles!
+> Sou desenvolvedor front-end e designer. Tenho 18 anos e estou tentando crescer nesse mercado gigante. Tenho enfrentado muitos desafios e aprendido muito com eles!
 
 🔭 Atualmente estou trabalhando como freelancer na Workana.
 
