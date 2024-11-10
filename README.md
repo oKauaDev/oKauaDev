@@ -2,7 +2,7 @@
 
 > Sou desenvolvedor front-end e designer. Tenho 18 anos e estou tentando crescer nesse mercado gigante. Tenho enfrentado muitos desafios e aprendido muito com eles!
 
-🔭 Atualmente estou trabalhando como freelancer na Workana.
+🔭 Atualmente estou trabalhando como freelancer na GetNinjas.
 
 💬 Você pode entrar em contato comigo pelo [Discord](https://discordapp.com/users/668849866805477398), onde atendo rapidamente, ou pode me enviar um [e-mail](mailto:kauacomtil021@gmail.com).
 
