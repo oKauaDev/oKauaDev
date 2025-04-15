@@ -59,12 +59,12 @@ Projetos em destaque: Site, Dashboard, API
 <br/>
 <br/>
 
-<img align="left" height="94px" width="94px" alt="Halvo" src="https://halvo.com.br/favicon.ico"/>
+<img align="left" height="94px" width="94px" alt="Halvo" src="https://luxfy.app/favicon.ico"/>
 
 **Desenvolvedor full-stack** \
-[**Halvo**](https://halvo.com.br) • Período integral \
-Linguagens e tecnologias: `NextJS`, `TypeScript`, `Supabase`, `TailwindCSS`, `UI/UX`, `NextAuth` \
-Projetos em destaque: Site, Dashboard, API, Pagamento, Recebimentos
+[**Luxfy**](https://luxfy.app) • Período integral \
+Linguagens e tecnologias: `NextJS`, `TypeScript`, `Docker`, `TailwindCSS`, `UI/UX`, `OpenAI` \
+Projetos em destaque: Site, Dashboard, API, Pagamento, IA
 <br/>
 <br/>
 
