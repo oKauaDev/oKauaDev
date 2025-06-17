@@ -70,7 +70,7 @@ Projetos em destaque: Site, Dashboard, API, Pagamento, IA
 <br/>
 <br/>
 
-<img align="left" height="94px" width="94px" alt="KAZ" src="https://kaua.dev.br/favicon.svg"/>
+<img align="left" height="94px" width="94px" alt="KAZ" src="https://kaua.dev.br/favicon.ico"/>
 
 **Desenvolvedor full-stack** \
 [**Kauã**](https://kaua.dev.br) • Período integral \
