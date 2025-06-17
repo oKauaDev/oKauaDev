@@ -74,5 +74,5 @@ Projetos em destaque: Site, Dashboard, API, Pagamento, IA
 
 **Desenvolvedor full-stack** \
 [**Kauã**](https://kaua.dev.br) • Período integral \
-Linguagens e tecnologias: `Astro`, `TypeScript`, `TailwindCSS`, `UI/UX` \
+Linguagens e tecnologias: `Next.js`, `TypeScript`, `TailwindCSS`, `Shadcn`, `UI/UX` \
 Projetos em destaque: Site, Design
