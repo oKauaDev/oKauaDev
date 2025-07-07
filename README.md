@@ -41,6 +41,26 @@
 ## 📂 Experiência de trabalho
 Confira meus projetos mais recentes:
 
+
+
+<img align="left" height="94px" width="94px" alt="KAZ" src="https://kaua.dev.br/favicon.ico"/>
+
+**Desenvolvedor full-stack** \
+[**Kauã**](https://kaua.dev.br) • Período integral \
+Linguagens e tecnologias: `Next.js`, `TypeScript`, `TailwindCSS`, `Shadcn`, `UI/UX` \
+Projetos em destaque: Site, Design
+<br/>
+<br/>
+
+<img align="left" height="94px" width="94px" alt="Halvo" src="https://luxfy.app/favicon.ico"/>
+
+**Desenvolvedor full-stack** \
+[**Luxfy**](https://luxfy.app) • Período integral \
+Linguagens e tecnologias: `NextJS`, `TypeScript`, `Docker`, `TailwindCSS`, `UI/UX`, `OpenAI` \
+Projetos em destaque: Site, Dashboard, API, Pagamento, IA
+<br/>
+<br/>
+
 <img align="left" height="94px" width="94px" alt="SapiencIA" src="https://sapienciaedu.com.br/favicon.ico"/>
 
 **Desenvolvedor full-stack** \
@@ -56,21 +76,3 @@ Projetos em destaque: Site, Dashboard, API, Pagamento, IA
 [**Peter IA**](https://peteria.xyz) • Período integral \
 Linguagens e tecnologias: `NextJS`, `NextAuth`, `TypeScript`, `TailwindCSS`, `UI/UX` \
 Projetos em destaque: Site, Dashboard, API
-<br/>
-<br/>
-
-<img align="left" height="94px" width="94px" alt="Halvo" src="https://luxfy.app/favicon.ico"/>
-
-**Desenvolvedor full-stack** \
-[**Luxfy**](https://luxfy.app) • Período integral \
-Linguagens e tecnologias: `NextJS`, `TypeScript`, `Docker`, `TailwindCSS`, `UI/UX`, `OpenAI` \
-Projetos em destaque: Site, Dashboard, API, Pagamento, IA
-<br/>
-<br/>
-
-<img align="left" height="94px" width="94px" alt="KAZ" src="https://kaua.dev.br/favicon.ico"/>
-
-**Desenvolvedor full-stack** \
-[**Kauã**](https://kaua.dev.br) • Período integral \
-Linguagens e tecnologias: `Next.js`, `TypeScript`, `TailwindCSS`, `Shadcn`, `UI/UX` \
-Projetos em destaque: Site, Design
